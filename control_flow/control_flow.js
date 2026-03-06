@@ -38,7 +38,7 @@ switch(userType){
     case "subscriber":
         userCategory="Subscriber";
     default:
-        usercategory="unknown";
+        userCategory="unknown";
 }
 
 console.log("User Category:",userCategory);
